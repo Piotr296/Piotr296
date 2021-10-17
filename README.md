@@ -6,8 +6,4 @@ In 2019 I graduated in Geodesy and Cartography at the Warsaw University of Techn
 
 Technologies and skills: Python, SQL, Microsoft Azure, Power BI, MS Excel, FME, QGIS, ArcGIS, Machine Learning, Data Analysis, Spatial Databases, Data Enginnering.
 
-- 🔭 Currently working on ETL processes
-- 🌱 Learning data engineering in depth
-- 📫 You can reach me here:
-
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/michalak-gis/) 
